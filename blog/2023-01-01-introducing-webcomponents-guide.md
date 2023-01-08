@@ -61,7 +61,7 @@ empty rooms. Not all the furnishings have been placed yet. We're working on it. 
 on to get feedback and improve. We've shared the content we have so far with newcomers and seasoned experts, and everyone
 has said they've learned something new.
 
-Here's the content we have (or shortly hope to have):
+The content we have is split into three sections for now:
 
 - **[Learn][learn]**: This will take you through _the journey_. Learn the basic building blocks and learn how to connect
   them to make useful user experiences.
