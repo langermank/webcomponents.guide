@@ -9,6 +9,7 @@
   --brand-color-medium: #b8e6f3;
   --brand-color-dark: #1eccea;
   --brand-color-very-dark: #2c4455;
+  --brand-color-contrast: #007e94;
   --brand-color-border: #2c4455;
   --brand-color-border-2: #385470;
   --brand-gradient: linear-gradient(to bottom right, var(--brand-color-medium), var(--brand-color-dark));
@@ -117,7 +118,7 @@ nav > details > :where(ol, ul) > li {
   display: flex;
   place-self: center start;
   margin-inline: var(--size-2);
-  color: var(--red-4);
+  color: var(--pink-8);
 }
 
 .early-badge div {
@@ -200,7 +201,7 @@ page-search svg {
 }
 
 .page-head a:where(:hover, :focus-visible) {
-  color: var(--brand-color);
+  color: var(--brand-color-contrast);
 }
 
 .page-head [slot="opener"] {
@@ -225,7 +226,7 @@ page-search svg {
 }
 
 .page-foot a:where(:hover, :focus-visible) {
-  color: var(--brand-color);
+  color: var(--brand-color-contrast);
 }
 
 .page-foot :where(nav ol) {

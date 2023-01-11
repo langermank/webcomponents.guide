@@ -9,7 +9,7 @@
 }
 
 .content a {
-  color: var(--brand-color);
+  color: var(--brand-color-contrast);
 }
 
 .content a:hover {

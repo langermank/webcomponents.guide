@@ -12,11 +12,11 @@
 }
 
 .breadcrumbs a {
-  color: var(--brand-color);
+  color: var(--brand-color-contrast);
   margin-inline: 0;
 }
 
 .breadcrumbs .icon {
-  color: var(--brand-color);
+  color: var(--brand-color-contrast);
   inline-size: 18px;
 }
